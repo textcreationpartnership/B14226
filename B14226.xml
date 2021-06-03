@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The generall signes and fore-runners of Christs comming to iudgment Soundly and sincerely collected out of Holy Scripture, and seruing as well to awaken the drowsie and careless worldling, as to comfort and reuiue the godly and afflicted Christian.</title>
+         </titleStmt>
+         <extent>Approx. 28KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14226</idno><idno type="EEBO-CITATION">99835998</idno>
+  <idno type="VID">176306</idno>
+  <idno type="EEBO-PROQUEST">2240890841</idno>
+  <idno type="STC">STC 14549</idno>
+  <idno type="STC">ESTC S100146</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99835998e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14226)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176306)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1313:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The generall signes and fore-runners of Christs comming to iudgment Soundly and sincerely collected out of Holy Scripture, and seruing as well to awaken the drowsie and careless worldling, as to comfort and reuiue the godly and afflicted Christian.</title>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M[iles] F[lesher] and are to be sold by H. Gosson, at his shop on London-bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1625?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Running title reads: The signes and fore-runners of Christs comming to iudgment.</note>
+                  <note>Identified as STC 14549a on UMI microfilm.</note>
+                  <note>Signatures: A B⁴.</note>
+                  <note>Some print show-through.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Second Advent --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176306:1"/>
+            <pb facs="tcp:176306:1"/>
+            <p>THE GENERALL Signes and Fore-runners of Christs comming to Iudgment.</p>
+            <p>Soundly and sincerely collected out of holy Scripture, and seruing as well to awaken the drowsie and carelesse world<g ref="char:EOLhyphen"/>ling, as to comfort and reuiue the god<g ref="char:EOLhyphen"/>ly and afflicted Christian.</p>
+            <q>Take heed, watch and pray: for yee know not when the time is. <bibl>MARKE 13.33.</bibl>
+            </q>
+            <q>When these things begin to come to passe, then looke vp, and lift vp your heads: for your re<g ref="char:EOLhyphen"/>demption draweth neere. <bibl>LVKE 21.28.</bibl>
+            </q>
+            <p>LONDON, Printed by M. F. and are to be sold by H. Gosson, at his Shop on London-bridge.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:176306:2"/>
+            <pb facs="tcp:176306:2"/>
+            <head>❧ The Signes and Fore<g ref="char:EOLhyphen"/>runners of Christs comming to Iudgement.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Lord Iesus in his mer<g ref="char:EOLhyphen"/>cy, because hee would not haue his children ensnared and ouertaken vnawares at the suddennesse of his se<g ref="char:EOLhyphen"/>cond comming, and because hee would warne, conuince, and leaue the very wic<g ref="char:EOLhyphen"/>ked his enemies without excuse and de<g ref="char:EOLhyphen"/>fence of themselues: hath reuealed and set forth in Scripture certaine generall and vndoubted signes of the approaching of the last iudgement, whereof some are already perfectly fulfilled, some in part ac<g ref="char:EOLhyphen"/>complished, and others yet remaine to come to passe in their time. Of all these and the generall vses that are to be made of them, I will speak briefly, and in order.</p>
+            <p>The first generall signe (long sithence
+<pb facs="tcp:176306:3"/> past) is the destruction and desolation of Ierusalem, together with the Iewes state and policy, and that irrecouerably vnto the end and consummation of the world, <hi>Matth. 24.12. Mark 13. vers. 12. Daniel 9.26.</hi>
+            </p>
+            <p>
+               <hi>And this is a type and patterne of the worlds destruction.</hi>
+            </p>
+            <p>The second signe is the divulging and preaching of the Gospell throughout the whole knowne &amp; inhabited world. There<g ref="char:EOLhyphen"/>fore for this purpose the Apostles as they had an extraordinary calling and extraor<g ref="char:EOLhyphen"/>dinary gifts, so they had a generall com<g ref="char:EOLhyphen"/>mission and commandement <hi>to goe into al the world,</hi>
+               <note place="margin">Mat. 28.19</note>
+               <hi>and to teach and baptize all na<g ref="char:EOLhyphen"/>tions, and to preach the Gospell to euery creature,</hi>
+               <note place="margin">Acts 1.8.</note>
+               <hi>Mark 16.15. and to bee his wit<g ref="char:EOLhyphen"/>nesses vnto the ends of the world.</hi>
+            </p>
+            <p>The reason thereof is, first, Because God would hereby inlighten, conuert, and draw vnto himselfe all that are to bee sa<g ref="char:EOLhyphen"/>ued. Secondly, that it might be a witnes to all nations, and that all men might be conuinced sufficiently through all parts of the world, that they could pretend and alledge no excuse of their ignorance to hide their impiety, <hi>Matth. 24.14.</hi> Thirdly,
+<pb facs="tcp:176306:3"/> the Apostles preached the Gospell accord<g ref="char:EOLhyphen"/>ingly to all the world that was then ha<g ref="char:EOLhyphen"/>bitable or knowne, or (at least) in the most famous, populous, and known coun<g ref="char:EOLhyphen"/>tries, kingdomes, and cities of it, so that from hence either by the Apostles, Disci<g ref="char:EOLhyphen"/>ples, or the Euangelists, or by others, it might be brought from thence vnto the most obscure, vnknowne, and barbarous nations, (such as are <hi>America,</hi> and the North parts of the world) <hi>Col. 1.6.</hi> and <hi>23. Rom. 10.18.</hi> Lastly,
+<note place="margin">Doctor Willet Sy<g ref="char:EOLhyphen"/>ne p. fol. p. 1063. 1064. 1065.</note> the ancient and holy Fathers of the Primitiue Church, as <hi>Origen, Ierome, Ambrose.</hi> &amp;c. make expresse mention in their writings of the vniuersall calling and enlightning of all nations, and therefore no such solemne and vniuersall legacy is now the second time to be expected, séeing that the Apo<g ref="char:EOLhyphen"/>stolicall calling and gifts are ceased, and séeing that the Gospell is passed from <hi>Iu<g ref="char:EOLhyphen"/>daea,</hi> and from the East, to the Seuth to the Gréekes: from the South it hath made its progresse to the West, that is, to the Latines; and from the West to the North, that is, to the Germaines, and o<g ref="char:EOLhyphen"/>ther confining countries; yet wee deny not, but it may, though not vniuersally,
+<pb facs="tcp:176306:4"/> yet be reuealed in other countries where it either originally hath not béene preach<g ref="char:EOLhyphen"/>ed, because perhaps in the Apostles times those countries were not inhabited, or (at least) very slenderly and sparingly, or where the mystery of iniquity and Anti<g ref="char:EOLhyphen"/>christianisme had obscured and preuailed ouer all, <hi>Apoc. 14.6.</hi> and <hi>18.1.</hi>
+            </p>
+            <p>The third signe is the comming and reuealing of Antichrist:
+<note place="margin">2 Thes. 2.3 1 Ioh. 2.18</note>
+               <hi>for the day of the Lord</hi> (saith the Apostle) <hi>shall not come except first that man of sinne be disclosed,</hi> whom Saint <hi>Iohn</hi> calleth <hi>Antichrist:</hi> con<g ref="char:EOLhyphen"/>cerning which Antichrist and his mem<g ref="char:EOLhyphen"/>bers and Locusts,
+<note place="margin">2 Tim. 3.8. and 9.</note> Saint <hi>Paul</hi> saith, <hi>that they are men of corrupt minds, reprobate concerning the faith, and that they shall preuaile no longer:</hi> for their madnesse shall be euident to all men.</p>
+            <p>But Antichrist is come long ago, when the third Angell in the <hi>Apocalyps</hi> blew the trumpet,
+<note place="margin">Apoc. 8.10.11.</note> then this great Starre (the Pope and his successors, as the heads of the Apostasie) fell from heauen burning like a forch; and it fell into the third part of the riuers, and fell into the fountaines of waters, and made them bitter: he hath béene reuealed fithence by the preaching
+<pb facs="tcp:176306:4"/> of the two (few yet sufficient) witnesses in the <hi>Apocalyps,</hi> and by the first, second,
+<note place="margin">Apoc. 11.4.5.6.</note> and third Angell in the <hi>14</hi> of the same <hi>A<g ref="char:EOLhyphen"/>pocalyps,</hi> that is to say, by all the excel<g ref="char:EOLhyphen"/>lent teachers, Preachers, and Writers sithence <hi>Martin Luther</hi> his time, namely, from the yeare of Christ about <hi>1520,</hi> vn<g ref="char:EOLhyphen"/>till this present time. To conclude, the description of Antichrist, and whatsoeuer the Prophets and Apostles haue foretold of Antichrist, they in all things agrée to euery Pope of Rome, and him onely, since the death of <hi>Gregory the Great,</hi> and since the death of the Emperour <hi>Maurice,</hi> as hath béene demonstrated by many here<g ref="char:EOLhyphen"/>tofore both English and forrain Writers: and touching this argument, yea and the whole mystery of the Romish Antichrist, a learned countrie-man of our owne hath purposely, learnedly, and succinctly writ<g ref="char:EOLhyphen"/>ten in his Theologicall disputations <hi>de Antichristo &amp; ejus ecclesia.</hi>
+            </p>
+            <p>The fourth and last signe, yet in motiō,
+<note place="margin">Rom. 8.</note> and not perfectly fulfilled, but to cōtinue vnto the worlds end, is the vanitie, cor<g ref="char:EOLhyphen"/>ruption and abuse of the creatures, which hath continued from <hi>Adams</hi> fall, and doth and shall encrease by degrées vnto the
+<pb facs="tcp:176306:5"/> consummation of all things. The Ele<g ref="char:EOLhyphen"/>ments (as we may obserue) of fire, ayre, water and earth, are corrupted, distem<g ref="char:EOLhyphen"/>pered, and often-times very hurtfull and contagious to mankind and other crea<g ref="char:EOLhyphen"/>tures. In plants, trées, herbes, there is not the same vigor, efficacie and vertue that was wont to be, the earth is become more barren and vnfruitfull; the sea more distempered and tempestuous, often breaking his bounds, and encroaching vpon the firme continent, the Sunne and Moone, the worlds two eyes, more often<g ref="char:EOLhyphen"/>times and fearefully eclipsed then in sor<g ref="char:EOLhyphen"/>mer times, yea the sunne, as also the stars (as the most excellent Astronomers haue noted) moue much more vnequally, and are remooued greatly from their for<g ref="char:EOLhyphen"/>mer standings. And as for men, we full well know, and are taught, by reading scripture, &amp; experience, that they are not so long liued, nor of that goodly fall and strong constitution of body, as in former ages.</p>
+            <p>But some may obiect and say, this short<g ref="char:EOLhyphen"/>nesse of mans life &amp; decay of his strength is notably supplied by agilitie of mind and pregnancy of wit, capacitie, inuen<g ref="char:EOLhyphen"/>tion:
+<pb facs="tcp:176306:5"/> I answere. This is most true: and Gods name is to be glorified for it, but yet men neuer more abused and peruert<g ref="char:EOLhyphen"/>ed their wits &amp; capacities then in these daies; for commonly the more witty men are, the more wicked, the more politike, the more pestilent; and the more vnder<g ref="char:EOLhyphen"/>standing that they haue, the more hereti<g ref="char:EOLhyphen"/>call, Papisticall and Atheisticall they do prooue. To leaue man and to come to buildings, houses, apparell, what vanitie, what surperfluitie and excesse, what follie and pride doth not herein appeare? For buildings, that in time past serued only for defence and necessity, and therefore were made very strong and durable; are now for the most part in many places, builded (albeit with excessiue cost as the poore tenants can testifie) yet slightly, and more for shew then for substance, and for pompe then profit. And garments and apparell which naturally serueth to hide mans nakednesse, and to defend him from cold, and (to make the best of it) to serue for comelinesse and distinction of degrees: is vsed now ordinarily, as an ensigne of pride, serueth for brauery and oftenta<g ref="char:EOLhyphen"/>tion, more then for any kinde of profit,
+<pb facs="tcp:176306:6"/> durablenesse or commonwealths aduan<g ref="char:EOLhyphen"/>tage. And thus we sée, that as the world doth decay and decline in the parts, so it doth and shall in the whole.</p>
+            <p>The fourth signe, is the shaking, weak<g ref="char:EOLhyphen"/>ning, wounding, and consuming of Anti<g ref="char:EOLhyphen"/>christ and his kingdome in many king<g ref="char:EOLhyphen"/>domes, countries, and cities, <hi>by the breath of Gods mouth:</hi>
+               <note place="margin">2 Thes. 2 8</note> that is, by the powerfull and continuall preaching of the Gospell, as also by the materiall sword of Christi<g ref="char:EOLhyphen"/>an Kings, Princes, and Magistrates, in their seuerall dominions, though not all at one time, yet successiuely, <hi>Apoc. 16.6.</hi> and <hi>7.16.</hi> and <hi>18.6.</hi> and so it shall bee more and more ruinated and decayed, vn<g ref="char:EOLhyphen"/>till the burning and desolation of Romish <hi>Babylon.</hi>
+            </p>
+            <p>The fift signe is grieuous calamities and persecutions of Gods Prophets,
+<note place="margin">The fift signe.</note> Saints, and Seruants vnder Antichrist, especially these <hi>100</hi> yeares last past, of which (perhaps) <hi>Daniel,</hi> chap. <hi>2.15.</hi> and <hi>8.34. Apoc. 11.35.</hi> &amp; <hi>13.15.16.17.</hi> Lastly in <hi>Rome</hi> hath béene found the blood of the Prophets,
+<note place="margin">Apoc. 18.24. Psal. 44.22.</note> and of the Saints, &amp; of all that were slaine vpon the earth, of these it is verified that the <hi>Psalmist</hi> saith, <hi>for thy sake
+<pb facs="tcp:176306:6"/> are we slaine continually,</hi> and are counted as sheepe for the slaughter: &amp; that which our Sauiour foresheweth, saying, <hi>They shall excommunicate you:</hi>
+               <note place="margin">Ioh. 16.2.</note>
+               <hi>yea the time shall come, that whosoeuer killeth you, will thinke that hee doth God good ser<g ref="char:EOLhyphen"/>uice:</hi> the reason hereof in respect of Anti<g ref="char:EOLhyphen"/>christ and his adherents, is because they cannot endure the ransacking and resu<g ref="char:EOLhyphen"/>ting of their idolatry, false doctrine, the Popes supremacy, and their idle super<g ref="char:EOLhyphen"/>stitions and antichristian rites, ceremo<g ref="char:EOLhyphen"/>nies, and traditions. But we hope that these troubles are for the most part past, and that towards the end of the world shall be well abated, so that the Church as of late yeares, shall haue a further brea<g ref="char:EOLhyphen"/>thing time, and thus much <hi>Marke</hi> seem<g ref="char:EOLhyphen"/>eth to signifie, <hi>Marke 13.7.</hi>
+            </p>
+            <p>
+               <hi>And thus much of the signes perfectly, and many of them long sithence accom<g ref="char:EOLhyphen"/>plished.</hi>
+            </p>
+            <p>THe second sort of signes and forerun<g ref="char:EOLhyphen"/>ners are those that are in continuall act, namely, partly fulfilled, and party to be further performed in their times. Of this sort are first an apostasie and depar<g ref="char:EOLhyphen"/>ture
+<pb facs="tcp:176306:7"/> of many pastors &amp; people from faith &amp; sound doctrine to Antichristianisme Tur<g ref="char:EOLhyphen"/>cisme, yea and plain Atheisme. <hi>2. Thes. 2.3.1. Tim. 1.4.2. Pet. 2. ve. 1.2.3. Apoc 13. ve. 16. et. 17.</hi> But vnder the tiranny of the Romish Antichrist &amp; <hi>Ma<g ref="char:EOLhyphen"/>homer</hi> this general Apostasie and falling away from truth and wholesome doctrine hath long agoe béene verified, yet not so but that daily wee sée it by lamentable ex<g ref="char:EOLhyphen"/>perience continued, and so it shall more and more bée encreased vnto the end of the world: for many that haue renounced Antichrist, fall to flat Atheisme and Li<g ref="char:EOLhyphen"/>bertinisme and some againe reuert and reuolt to their former superstition out of which they were for the time and in part recouered, of these speaketh the scripture in many places, <hi>Hebrews 6. vers. 20.4.5.6. 2 Tim. 4. ver. 3.4.2. Peter 2. vers. 20.21.</hi> and it shall so abound and ouerflow at Christ his second comming,
+<note place="margin">Luke 18.8.</note>
+               <hi>that he shall hardly finde faith on the earth,</hi> and no maruaile, for as there haue done, yet doe, and alwaies shall arise false Prophets, Seducers, Deceiuers (successiuely) in many countries, Kingdomes and places, so many shall follow their damnable
+<pb facs="tcp:176306:7"/> wayes and be blinded by them.
+<note place="margin">2. Pet. 2.2.</note>
+            </p>
+            <p>The second signe partly past and partly present and to come, is a generall impi<g ref="char:EOLhyphen"/>etie, corruption of manners, and impu<g ref="char:EOLhyphen"/>dency in all manner of sinne, still (like <hi>Noah</hi> his generall deluge) preuayling in most places, the particular effects wher<g ref="char:EOLhyphen"/>of we as in a catalogue may read and ob<g ref="char:EOLhyphen"/>serue in <hi>Paul</hi> his first Epistle to <hi>Timothy</hi> chapter the third, v. <hi>1.2.3.4.5.</hi> And hereof in our owne Kingdome we haue had fear<g ref="char:EOLhyphen"/>full experience, especially within these yeares late past, as though God had granted a general indulgence to all man<g ref="char:EOLhyphen"/>ner of licentiousnesse, and as though hell were broke loose: and this profanenesse and corruption of manners in all places of the world, yet continueth and shalbe much more vniuersall and contagious neare the time of Christ his second com<g ref="char:EOLhyphen"/>ming <hi>Luk. 17.26. Math. 24.38.</hi> and hereof there is and shalbe more feare then of cor<g ref="char:EOLhyphen"/>ruption in doctrine?
+<note place="margin">1. Tim. 3.5</note> for many shal retaine a forme and outward profession of Godli<g ref="char:EOLhyphen"/>nes, but denie the power and efficacy of it.</p>
+            <p>The third signe,
+<note place="margin">Luk 21.25. Acts 2.20.</note>
+               <hi>is signes in the Sunne and in the Moone, &amp; in the Stars, and vpon the earth trouble vpon nations
+<pb facs="tcp:176306:8"/> with perplexity. The Sunne shall bee tur<g ref="char:EOLhyphen"/>ned into darknesse, and the Moone into blood, before the great and notable day of the Lord come.</hi> This signe by frequen<g ref="char:EOLhyphen"/>ty and multitude of Eclipses, hath of la<g ref="char:EOLhyphen"/>ter yeares, and daily is fulfilled: likewise by terrible windes, tempests, meteors, and strange alterations in the ayre it is performed, and this our late experience can iustifie: but it shall bee perfectly ac<g ref="char:EOLhyphen"/>complished in the instant of Christ his se<g ref="char:EOLhyphen"/>cond comming and glorious appearing; for then he by the brightnesse of his glo<g ref="char:EOLhyphen"/>rious Maiesty shall darken and suppresse the light of Sunne, Moone, and Starres: and a little before this time the whole frame of the world shall bee shaken and moued,
+<note place="margin">Luk. 21.26</note> and the very bruit and senselesse creatures shall beforehand perceiue and feele the power of Christ his comming, when all the reprobates shall remaine blockish and without feeling.</p>
+            <p>
+               <hi>And thus much of mixt or continued signes.</hi>
+            </p>
+            <p>SIgnes and fore-runners that are yet to come to passe are specially these fiue following.</p>
+            <pb facs="tcp:176306:8"/>
+            <p>First, the burning and vtter desolati<g ref="char:EOLhyphen"/>on of Rome, the mother of fornication &amp; idolatry, &amp; the proper seat of <hi>Antichrist,</hi> this that it shall be so, is most manifest and apparent by Scripture, reasons, and au<g ref="char:EOLhyphen"/>thorities: First, the Scripture testifi<g ref="char:EOLhyphen"/>eth,
+<note place="margin">Apo. 16.16</note> that <hi>the great City shall bee diuided into three parts, and great Babylon shall come in remembrance before God: and that the tenne horned or Kings shall hate the whore,</hi>
+               <note place="margin">cap. 17.16.</note>
+               <hi>shall make her desolate and na<g ref="char:EOLhyphen"/>ked, and shall eate her flesh, and burne her with fire:</hi>
+               <note place="margin">vers. 8.</note> and most plainly in the <hi>18</hi> chap<g ref="char:EOLhyphen"/>ter, <hi>Her plagues shall come in one day, death, and sorrow, and hunger, and shee shall be vtterly burnt with fire, for strong is the Lord that iudgeth her.</hi> Hereupon the (Idolatrous) Kings of the earth,
+<note place="margin">Chap. 18. vers. 9.11.17.18.</note>
+               <hi>the Merchants, and euery ship gouernour, and all they that occupy ships, and ship-men, and as many as worke in the sea, shall be<g ref="char:EOLhyphen"/>wayle her, lament her, weepe and cry at the sight and notice of her burning:</hi> but this is not yet come to passe: Likewise all the Church of God shal reioyce and praise God for his iust iudgements executed vp<g ref="char:EOLhyphen"/>on the Whore, <hi>Apoc. 11.20.</hi> and <hi>19.1.2.</hi>
+            </p>
+            <p>Further reasons are these, God hath begun
+<pb facs="tcp:176306:9"/> and Antichrist, and therefore séeing that it is builded and standeth vpon a sandy foundation, hauing begun to fall, it must needes shortly fall <hi>when the rain of Gods seuere iudgement commeth, &amp; the flouds flow, and the windes blow and beat vpon it, and great must be the fall of it.</hi>
+            </p>
+            <p>Secondly, The Easterne Babylon, a type of this Westerne Babylon (abeit she had nothing so much conuiction, nor committed so haynous and manifold ab<g ref="char:EOLhyphen"/>hominations as Rome hath done) was vtterly &amp; many ages sithence destroyed, much more shall Rome it selfe, the mouth of hell and Satan his chamber, and Me<g ref="char:EOLhyphen"/>tropolis. Thirdly, all the Protestant and sound interpreters of the Apocalyps by one ioynt consent hold that Rome shalbe ransacked and ruinated, and wholly con<g ref="char:EOLhyphen"/>sumed, and neuer more inhabited vnlesse it be with deuills.</p>
+            <p>Lastly (to omit the prophecy of <hi>Sibylla</hi> who saith that Rome in the tenth gene<g ref="char:EOLhyphen"/>ration of men shall perish with fire hard at the end of the world) the Papists them selues acknowledge thus much, and ren<g ref="char:EOLhyphen"/>der reasons of it. Our Rhemists in their Annotations in <hi>Apoc. 17.</hi> say that Rome
+<pb facs="tcp:176306:9"/> before the end of the world shall be come <hi>the <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eate of Antichrist. Riber<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> vpon the <hi>14</hi> chap. saith, <hi>it shall be the shoppe of all Idolatry. Vega</hi> the Iesuite in his commen<g ref="char:EOLhyphen"/>tary vpon the <hi>18.</hi> chapter, saith <hi>that it shall be the habitation of deuils and reuolt from the faith of Christ:</hi> and herevpon <hi>Vega</hi> and <hi>Ribera</hi> (both Iesuits) confesse that Rome in the end of the world <hi>shallbe Babylon and burned,</hi> as they collect out of the <hi>18.</hi> chapter: and the Kings and Marchants shall lamēt for her torments, which saith <hi>Vega</hi> wée must néedes referre to the last times before the end of the world; wherefore howsoeuer many, be<g ref="char:EOLhyphen"/>cause of present improbabilities cast néedlesse doubts, yet shall the threatnings and iudgments of God not fall to the ground but bée executed in their times.
+<note place="margin">Mat. 24, 35</note>
+            </p>
+            <p>The second signe yet to bée fulfilled is the generall calling and conuersion of the nation of the Iewes (in the places and countries where they shall be and are residing,) whē the fulnesse of vs Gentiles is come into the church, and this shalbe the reuiuing and reioysing of the world both in respect of Iewes and Gentiles, and this is most plaine as by <hi>Lu. 21</hi> ver.
+<pb facs="tcp:176306:10"/>
+               <hi>24. 2 Cor. 3.19.</hi> &amp; perhaps <hi>Zophonia 3.</hi> ver. <hi>8.</hi> so especially <hi>Rom. 11.</hi> ver. <hi>12.15.2.6.</hi> This generall conuersion of them wée daily expect to come to passe albeit we are ignorant of the maner and circumstances of it, but hereof I haue treated at large in my exposition of the <hi>11.</hi> chapter to the Romanes.</p>
+            <p>The third signe next succéeding and following in order is the arising of false Christes,
+<note place="margin">Mat. 24.24 Verse 2<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> and false Prophets, that shall shew great signes and wonders: in so much that (if it were possible) they should deceiue the very elect. Herevpon Gods people are admonished &amp; instructed, that when they shal say, behold hée is, <hi>in the secret places that they must not beleeue it.</hi> But it will bée obiected that there were such that tooke vpon them the name of the Messias and the King of <hi>Israel</hi> before the destruction of <hi>Ierusalem,</hi> and seduced and drew many after them (as we haue examples in <hi>Theudas Acts 5.</hi> and in the <hi>Egyptian Acts 21.</hi>) I answer, here in this place Christ speaketh of false Christs that shall long after that time arise, and that shall seduce as well the Gentiles as the Iewes.</p>
+            <pb facs="tcp:176306:10"/>
+            <p>Secondly those Christs did shew no signes and wonders as these shall doe, who shall labour by false miracles and satanicall illusions and conclusions to gaine and procure credit and authoritie to their false doctrine, and also in respect of efficacie of error in the last generation or age of the world, it may very well stand that the Sonne of man <hi>shall scarcely finde faith vpon the earth when hee commeth to iudgement.</hi>
+               <note place="margin">Luke 18.<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+            </p>
+            <p>The fourth signe, that is the last generall signe, is a certaine brutish secu<g ref="char:EOLhyphen"/>ritie and an vnspeakable deadnesse of heart and spirit, so that man shalbe with<g ref="char:EOLhyphen"/>out all feare of God, senselesse of all euill, caring for no instructions &amp; admonitions? but liuing in pleasure and impenitency &amp; not héeding nor taking notice of the signes of Christ his comming. <hi>Matth. 24.35.</hi>
+               <note place="margin">Luk. 21.35 1 Thes. 5.3.4.</note>
+               <hi>Luk. 17.26. 1. Thess. 5.3.</hi> so that the last day shall come <hi>as a snare on al such; sudden destruction shall come vpon them and they shall in no wise escape, they shall not be able to endure the day of his wrath;</hi> much lesse be able to <hi>stand</hi> and iustifie their cause in iudgement.</p>
+            <p>This brutish securitie hath béene in
+<pb facs="tcp:176306:11"/> former ages, and much increaseth in these our daies, but then it shalbe much more vniuersall and incurable.</p>
+            <p>The last signe is the darkning of lights of heauen, and the roaring of the seas <hi>Matth. 24.</hi> ve. <hi>24. Luk. 21.</hi> v. <hi>25,</hi> this is the néerest signe and therefore wée are the more carefully to obserue it when it com<g ref="char:EOLhyphen"/>meth. <hi>
+                  <hi>Quest.</hi> Why will not God reueale vnto any the time and day of the last iudgement?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> Partly to bridle mans rash curiositie that doth search and diue into secrets that are both vnpossible and vnlawfull to be knowne. Secondly, that wee should watch and waite for his comming and make vs ready euery houre. <hi>Mark. 13.</hi> ver. <hi>33.</hi>
+            </p>
+            <p>
+               <hi>
+                  <hi>Quest.</hi> Why doth God deferre and put off the last iudgement so long?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> First, that the number of his elect might be all borne, called and fulfilled, &amp; so gathered into the Church triumphant in heauen. Secondly, to containe and kéep his people from astonishment of feare and from abuse of his long patience. Lastly, to leaue the wicked and those that contemne his grace offered vnto them,
+<note place="margin">Rom. 2.4.5 2 Pet. 3.8.</note> and abuse his long suffering, without all excuse and
+<pb facs="tcp:176306:11"/> defence of themselues in the last day.</p>
+            <p>
+               <hi>Vse 1.</hi> The generall vses of all these signes past, present and to come, are principally foure First, here are reproued and condemned all such who béeing led by their owne lusts and carnall reason, and not by holy scriptures beléeue not the last iudgement, but contemne and deride it. <hi>2. Pet. 3.</hi> ver. <hi>3.</hi>
+            </p>
+            <p>Whereas first this doctrine is plainely &amp; abundantly set forth in the scriptures. <hi>Psal. 50 1. Act. 10.42. Matt. 25.31. Luke 18.17. Rom. 2.16. Hebrew. 9.27. Iob. 19.25. Act. 3.19. Act. 17.31. 2 Cor. 5.10. 1 Pet. 4. Iude. ver. 14. et. 15. 2. Tim. 4.8. Apoc. 1. Apoc. 20. ver. 12.13.14.15.</hi>
+            </p>
+            <p>Secondly, except there should bée a generall iudgement there néede no resurrection. Lastly, God could not shew himselfe either perfectly iust in punishing and condemning the reprobates, nor per<g ref="char:EOLhyphen"/>fectly mercifull in absoluing, sauing and rewarding his seruants.</p>
+            <p>
+               <hi>Vse 2.</hi> Secondly, séeing that we know not the day nor the yeare of Iudgement, but onely the generall signes of it, it ser<g ref="char:EOLhyphen"/>ueth to refute and refell the pride and rash curiositie of those, that eyther by fained
+<pb facs="tcp:176306:12"/> reuelation, humane prophesies, arith<gap reason="illegible" resp="#pdcc" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<g ref="char:EOLhyphen"/>ticall supputation, position of stars, and humane coniectures and authorities, will calculate and cast, yea and define the ve<g ref="char:EOLhyphen"/>ry time and yéere of Christs comming (as some did in the ancient Fathers times, &amp; many defined that the world should end in <hi>88.</hi>) but time &amp; experience hath shewed the folly and vanity of their coniectures.</p>
+            <p>Secondly,
+<note place="margin">Acts 1.6.</note> it is a thing both vtterly vn<g ref="char:EOLhyphen"/>lawfull, and simply vnpossble for any man to know, or define the certaine and set time of Christs appearance, for it is not reuealed to the very Elect angels, and Christ when he was vpon the earth knew not the day.
+<note place="margin">Mar. 24.42 &amp; 44.</note>
+               <hi>Mat. 24.36. and 13.32.</hi> much lesse can we know it.</p>
+            <p>
+               <hi>Vse 3.</hi> The third vse is for instruction &amp; admonition, that the godly themselues (because many times they are in a kinde of slumber, and doe not alike chéerfully looke for Christs comming) might watch,
+<note place="margin">Luk. 12.43</note> pray, repent, make themselues ready and wait for the day and appearance of Christ that when Christ commeth to them ey<g ref="char:EOLhyphen"/>ther by death, or at the last iudgement, they may be found waking, and walking in their Christian calling, and so ready
+<pb facs="tcp:176306:12"/> with good conscience to render vnto the Lord an account of their Stewardship.</p>
+            <p>
+               <hi>Vse 4.</hi>
+               <note place="margin">Acts 3.19.</note> The fourth vse is for the conso<g ref="char:EOLhyphen"/>lation of the sound and sincere hearted Christian whosoeuer. For he knowes the néerer the signes are to their accomplish<g ref="char:EOLhyphen"/>ment, the sooner shall hee be eased of the burden of his sinnes, deliuered from all miseries, and be possessed with all ioy and happinesse. Hereupon the godly are (vp<g ref="char:EOLhyphen"/>on notice taken of the accomplishment of these signes) exhorted to lift vp their heads,
+<note place="margin">Luk. 21.23</note> because their ful redemption draw<g ref="char:EOLhyphen"/>eth nigh, and they in the certaine hope &amp; expectation of this blessed day, are nota<g ref="char:EOLhyphen"/>bly shielded and defended against all tem<g ref="char:EOLhyphen"/>ptations &amp; afflictions. <hi>Iob 25.19. 2 Cor. 4.</hi>
+            </p>
+            <p>
+               <hi>Vse 5.</hi>
+               <note place="margin">Apoc. 1.7.</note> The last vse is for the terror &amp; conuincement of all impenitent, vnbelée<g ref="char:EOLhyphen"/>uing, profane rebellious persons, who in this life would not submit &amp; subiect them<g ref="char:EOLhyphen"/>selues to be taught, ruled, and ordered by Christ, his Gospell, and discipline: they by reason of their vnbeléefe and contempt shall finde and féele Christ to be as a iust, so an angry &amp; seuere Iudge to condemne them to eternall &amp; vnspeakable torments. <hi>Apoc. 6.15.16. Luke 21.26. Mat. 25.41.</hi>
+            </p>
+            <pb facs="tcp:176306:13"/>
+            <p>The Lord God for Christs sake grant that wee may take due notice of these signes, and be hereby effectually stirred vp to prepare our selues against Christ his comming, that our soules may be saued.</p>
+            <p>
+               <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
